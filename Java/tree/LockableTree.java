@@ -49,8 +49,8 @@ class LockableTreeNode {
 public class LockableTree {
 
 	/*
-	Input: N = 7, M = 2, nodes = [‘World’, ‘Asia’, ‘Africa’, ‘China’, ‘India’, ‘SouthAfrica’, ‘Egypt’],
-	queries =  [‘1 China 9’, ‘1 India 9’, ‘3 Asia 9’, ‘2 India 9’, ‘2 Asia 9’]
+	Input: N = 7, M = 2, nodes = ["World", "Asia", "Africa", "China", "India", "SouthAfrica", "Egypt"],
+	queries =  ["1 China 9", "1 India 9", "3 Asia 9", "2 India 9", "2 Asia 9"]
 	Output: true true true false true
 
 	 */

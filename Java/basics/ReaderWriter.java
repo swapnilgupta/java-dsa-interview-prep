@@ -40,7 +40,7 @@ public class ReaderWriter {
 			new Thread(() -> {
 				int value = sharedResource.readData();
 				System.out.println(
-					"Reader Thread " + Thread.currentThread().getId() + " read: " + value);
+					"Reader Thread " + Thread.currentThread().threadId() + " read: " + value);
 			}).start();
 		}
 
@@ -50,7 +50,7 @@ public class ReaderWriter {
 			new Thread(() -> {
 				sharedResource.writeData(newValue);
 				System.out.println(
-					"Writer Thread " + Thread.currentThread().getId() + " wrote: " + newValue);
+					"Writer Thread " + Thread.currentThread().threadId() + " wrote: " + newValue);
 			}).start();
 		}
 	}
