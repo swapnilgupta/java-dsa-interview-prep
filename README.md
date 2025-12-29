@@ -14,23 +14,29 @@
 
 ```
 Java/
-├── arrays/          # 22 problems
-├── dp/              # 14 problems (Knapsack, LIS, Word Break)
-├── graph/           # 15+ (BFS, DFS, Dijkstra, Topological Sort)
-├── backtracking/    # 6 problems
-├── tree/            # 10 problems
-├── linkedList/      # 5 problems (LRU Cache)
-├── stack/           # 4 problems
-├── trie/            # 2 problems
-├── slidingWindow/   # 4 problems
-├── twoPointer/      # 6 problems
-├── binarySearch/    # 4 problems
-├── greedy/          # 4 problems
-├── hashmap/         # 7 problems
-├── bitmanipulation/ # Bit tricks & bitmasking
-├── unionfind/       # 2 problems
+├── arrays/          # Array problems
+├── dp/              # Dynamic Programming
+├── graph/           # BFS, DFS, Dijkstra, Topological Sort
+├── backtracking/    # Backtracking problems
+├── tree/            # Binary trees, BST
+├── linkedList/      # Linked list, LRU Cache
+├── stack/           # Stack problems
+├── heap/            # Priority Queue, Median Finder
+├── trie/            # Trie implementation
+├── slidingWindow/   # Sliding window pattern
+├── twoPointer/      # Two pointer technique
+├── binarySearch/    # Binary search variants
+├── greedy/          # Greedy algorithms
+├── hashmap/         # HashMap problems
+├── bitmanipulation/ # Bit manipulation & bitmasking
+├── unionfind/       # Disjoint Set Union
+├── string/          # String manipulation
+├── math/            # Math problems
+├── matrix/          # 2D matrix problems
+├── intervals/       # Interval problems
+├── design/          # System design (LRU, HashMap)
 ├── namedAlgorithm/  # KMP, Kadane, Floyd-Warshall
-├── design/          # System design problems
+├── basics/          # Concurrency patterns
 └── amazon/          # Company-specific
 ```
 
@@ -38,14 +44,14 @@ Java/
 
 ## 🗂️ Topics
 
-| Category | Problems | Examples |
-|----------|----------|----------|
-| **Arrays** | 22 | Two Sum, Kadane's, Gas Station |
-| **DP** | 14 | LIS, Word Break, House Robber, Knapsack |
-| **Graphs** | 15+ | Dijkstra, BFS, DFS, Topological Sort |
-| **Trees** | 10 | Traversals, LCA, Serialize/Deserialize |
-| **Backtracking** | 6 | Permutations, Combinations, Word Search |
-| **Design** | 3 | LRU Cache, HashMap, All O(1) |
+| Category | Examples |
+|----------|----------|
+| **Arrays** | Two Sum, Kadane's, Gas Station |
+| **DP** | LIS, Word Break, House Robber, Knapsack |
+| **Graphs** | Dijkstra, BFS, DFS, Topological Sort |
+| **Trees** | Traversals, LCA, Serialize/Deserialize |
+| **Backtracking** | Permutations, Combinations, Word Search |
+| **Design** | LRU Cache, HashMap, All O(1) |
 
 ---
 
@@ -86,8 +92,6 @@ java dp.LongestIncreasingSubsequence
 ---
 
 ## 🤝 Contributing
-
-1. Fork → Create branch → Add solution → PR
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 

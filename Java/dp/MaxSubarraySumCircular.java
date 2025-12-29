@@ -1,4 +1,4 @@
-package kadane;
+package dp;
 
 public class MaxSubarraySumCircular {
 

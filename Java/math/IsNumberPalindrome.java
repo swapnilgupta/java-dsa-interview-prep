@@ -1,4 +1,4 @@
-package mathematics;
+package math;
 
 public class IsNumberPalindrome {
 

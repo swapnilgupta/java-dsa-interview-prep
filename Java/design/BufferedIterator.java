@@ -1,4 +1,4 @@
-package iterators;
+package design;
 
 
 import java.util.Iterator;

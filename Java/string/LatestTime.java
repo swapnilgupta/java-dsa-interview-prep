@@ -1,4 +1,4 @@
-package parsing;
+package string;
 
 public class LatestTime {
 
