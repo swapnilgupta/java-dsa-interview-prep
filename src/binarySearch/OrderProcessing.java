@@ -1,4 +1,4 @@
-package amazon;
+package binarySearch;
 import java.util.*;
 
 class OrderProcessing {

@@ -1,4 +1,4 @@
-package amazon;
+package stack;
 
 import java.util.*;
 

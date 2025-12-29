@@ -1,4 +1,4 @@
-package amazon;
+package twoPointer;
 
 import java.util.*;
 

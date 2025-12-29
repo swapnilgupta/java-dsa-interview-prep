@@ -13,7 +13,7 @@
 ## 📁 Structure
 
 ```
-Java/
+src/
 ├── arrays/          # Array problems
 ├── dp/              # Dynamic Programming
 ├── graph/           # BFS, DFS, Dijkstra, Topological Sort
@@ -36,8 +36,7 @@ Java/
 ├── intervals/       # Interval problems
 ├── design/          # System design (LRU, HashMap)
 ├── namedAlgorithm/  # KMP, Kadane, Floyd-Warshall
-├── basics/          # Concurrency patterns
-└── amazon/          # Company-specific
+└── basics/          # Concurrency patterns
 ```
 
 ---
@@ -58,24 +57,24 @@ Java/
 ## 🔥 Must-Do Problems
 
 ### Dynamic Programming
-- [Longest Increasing Subsequence](Java/dp/LongestIncreasingSubsequence.java) - O(n log n)
-- [Word Break](Java/dp/WordBreak.java)
-- [House Robber II](Java/dp/HouseRobberII.java)
-- [Regular Expression Matching](Java/dp/RegularExpressionMatching.java)
+- [Longest Increasing Subsequence](src/dp/LongestIncreasingSubsequence.java) - O(n log n)
+- [Word Break](src/dp/WordBreak.java)
+- [House Robber II](src/dp/HouseRobberII.java)
+- [Regular Expression Matching](src/dp/RegularExpressionMatching.java)
 
 ### Graphs
-- [Dijkstra's Shortest Path](Java/graph/DijkstraShortestPath.java)
-- [Course Schedule II](Java/graph/CourseScheduleIIDFS.java) - Topological Sort
-- [Word Ladder](Java/graph/WordLadder.java)
+- [Dijkstra's Shortest Path](src/graph/DijkstraShortestPath.java)
+- [Course Schedule II](src/graph/CourseScheduleIIDFS.java) - Topological Sort
+- [Word Ladder](src/graph/WordLadder.java)
 
 ### Backtracking
-- [Generate Parentheses](Java/backtracking/GenerateParentheses.java)
-- [Combination Sum](Java/backtracking/CombinationSum.java)
-- [Word Search](Java/backtracking/WordSearch.java)
+- [Generate Parentheses](src/backtracking/GenerateParentheses.java)
+- [Combination Sum](src/backtracking/CombinationSum.java)
+- [Word Search](src/backtracking/WordSearch.java)
 
 ### System Design
-- [LRU Cache](Java/linkedList/LRUCache.java)
-- [All O(1) Data Structure](Java/design/AllOOne.java)
+- [LRU Cache](src/linkedList/LRUCache.java)
+- [All O(1) Data Structure](src/design/AllOOne.java)
 
 ---
 
@@ -83,7 +82,7 @@ Java/
 
 ```bash
 # Compile and run
-javac Java/dp/LongestIncreasingSubsequence.java
+javac src/dp/LongestIncreasingSubsequence.java
 java dp.LongestIncreasingSubsequence
 
 # Or import in IntelliJ/Eclipse/VS Code
