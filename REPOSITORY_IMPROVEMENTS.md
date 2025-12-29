@@ -1,59 +1,36 @@
-# Manual Steps to Complete
+# Manual Steps Remaining
 
-## 1. Rename Repository
+## ✅ Completed (via gh CLI)
 
-**Go to:** github.com/swapngup/leetcode → Settings → Repository name
-
-**Change to:** `java-dsa-interview-prep`
-
-**Then update local:**
-```bash
-git remote set-url origin https://github.com/swapngup/java-dsa-interview-prep.git
-```
+- [x] Repository renamed to `java-dsa-interview-prep`
+- [x] Description updated
+- [x] Topics/tags added
+- [x] Discussions enabled
+- [x] Remote URL updated
 
 ---
 
-## 2. Update Repository Description
+## 📌 Optional Manual Tasks
 
-**Go to:** Repository main page → Click ⚙️ next to "About"
+### 1. Create Social Preview Image
 
-**Add this description:**
-```
-🚀 150+ Java DSA & LeetCode solutions organized by patterns | Interview prep resource | Arrays, DP, Graphs, Trees, System Design
-```
-
-**Add these topics:**
-```
-leetcode, java, data-structures, algorithms, interview-preparation, dsa, coding-interview, leetcode-solutions
-```
-
----
-
-## 3. Enable GitHub Discussions
-
-**Go to:** Settings → Features → Check "Discussions"
-
----
-
-## 4. Create Social Preview (Optional)
-
-**Create image:** Use Canva (canva.com) → Search "GitHub Social Preview" template
+**Create:** Use [Canva](https://canva.com) → Search "GitHub Social Preview"
 
 **Dimensions:** 1280x640 pixels
 
 **Include:** "Java DSA Solutions", "150+ Problems", Java logo
 
-**Upload:** Settings → Social preview → Upload image
+**Upload:** [Repository Settings](https://github.com/swapnilgupta/java-dsa-interview-prep/settings) → Social preview
 
 ---
 
-## 5. Pin to Your Profile
+### 2. Pin to Your Profile
 
 **Go to:** Your GitHub profile → Customize your pins → Add this repository
 
 ---
 
-## 6. Share (After completing above)
+### 3. Share (Optional)
 
 - Reddit: r/learnprogramming, r/cscareerquestions
 - LinkedIn: Post about your resource
@@ -61,13 +38,6 @@ leetcode, java, data-structures, algorithms, interview-preparation, dsa, coding-
 
 ---
 
-## Done! ✅
+**Repository URL:** https://github.com/swapnilgupta/java-dsa-interview-prep
 
-After completing steps 1-3, commit your changes:
-```bash
-git add .
-git commit -m "docs: Add comprehensive documentation and GitHub templates"
-git push origin main
-```
-
-*Delete this file after completing all steps.*
+*Delete this file when done with optional tasks.*
