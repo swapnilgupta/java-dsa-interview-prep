@@ -1,4 +1,4 @@
-package bitmanipulation;
+package bitManipulation;
 
 public class BitManipulationBasics {
 

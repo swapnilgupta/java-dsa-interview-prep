@@ -1,4 +1,4 @@
-package hashmap;
+package hashMap;
 
 public class CPUScheduling {
 

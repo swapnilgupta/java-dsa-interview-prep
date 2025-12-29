@@ -1,4 +1,4 @@
-package bitmanipulation.bitmasking;
+package bitManipulation.bitmasking;
 
 import java.util.ArrayList;
 import java.util.Arrays;

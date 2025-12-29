@@ -27,9 +27,9 @@ src/
 ├── twoPointer/      # Two pointer technique
 ├── binarySearch/    # Binary search variants
 ├── greedy/          # Greedy algorithms
-├── hashmap/         # HashMap problems
-├── bitmanipulation/ # Bit manipulation & bitmasking
-├── unionfind/       # Disjoint Set Union
+├── hashMap/         # HashMap problems
+├── bitManipulation/ # Bit manipulation & bitmasking
+├── unionFind/       # Disjoint Set Union
 ├── string/          # String manipulation
 ├── math/            # Math problems
 ├── matrix/          # 2D matrix problems
